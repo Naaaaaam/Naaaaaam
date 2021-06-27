@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Naaaaaam
-- 👀 I’m interested in learning coden
-- 🌱 I’m currently learning Kotlin
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java 
+- ⚔️ I like HGLabor.de
 - 📫 How to reach me Discord: Nam#0388
 
 <!---
